@@ -1,0 +1,319 @@
+{
+    // Place your next-fast-app workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+    // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+    // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+    // used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+    // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+    // Placeholders with the same ids are connected.
+    // Example:
+    // "Print to console": {
+    // 	"scope": "javascript,typescript",
+    // 	"prefix": "log",
+    // 	"body": [
+    // 		"console.log('$1');",
+    // 		"$2"
+    // 	],
+    // 	"description": "Log output to console"
+    // }
+    "viridianGreen_100": {
+        "prefix": "viridianGreen_100",
+        "body": [
+            "EColor${1}.viridianGreen_100"
+        ],
+        "description": "Viridian Green 100 (#ddeae3)"
+    },
+    "viridianGreen_200": {
+        "prefix": "viridianGreen_200",
+        "body": [
+            "EColor${1}.viridianGreen_200"
+        ],
+        "description": "Viridian Green 200 (#bad5c8)"
+    },
+    "viridianGreen_300": {
+        "prefix": "viridianGreen_300",
+        "body": [
+            "EColor${1}.viridianGreen_300"
+        ],
+        "description": "Viridian Green 300 (#90b8a7)"
+    },
+    "viridianGreen_400": {
+        "prefix": "viridianGreen_400",
+        "body": [
+            "EColor${1}.viridianGreen_400"
+        ],
+        "description": "Viridian Green 400 (#63927f)"
+    },
+    "viridianGreen_500": {
+        "prefix": "viridianGreen_500",
+        "body": [
+            "EColor${1}.viridianGreen_500"
+        ],
+        "description": "Viridian Green 500 (#4e7e6c)"
+    },
+    "viridianGreen_600": {
+        "prefix": "viridianGreen_600",
+        "body": [
+            "EColor${1}.viridianGreen_600"
+        ],
+        "description": "Viridian Green 600 (#3d6456)"
+    },
+    "viridianGreen_700": {
+        "prefix": "viridianGreen_700",
+        "body": [
+            "EColor${1}.viridianGreen_700"
+        ],
+        "description": "Viridian Green 700 (#345147)"
+    },
+    "viridianGreen_800": {
+        "prefix": "viridianGreen_800",
+        "body": [
+            "EColor${1}.viridianGreen_800"
+        ],
+        "description": "Viridian Green 800 (#2c433b)"
+    },
+    "viridianGreen_900": {
+        "prefix": "viridianGreen_900",
+        "body": [
+            "EColor${1}.viridianGreen_900"
+        ],
+        "description": "Viridian Green 900 (#283933)"
+    },
+    "viridianGreen_950": {
+        "prefix": "viridianGreen_950",
+        "body": [
+            "EColor${1}.viridianGreen_950"
+        ],
+        "description": "Viridian Green 950 (#13201b)"
+    },
+    "fieryOrange_50": {
+        "prefix": "fieryOrange_50",
+        "body": [
+            "EColor${1}.fieryOrange_50"
+        ],
+        "description": "Fiery Orange 50 (#fef9ec)"
+    },
+    "fieryOrange_100": {
+        "prefix": "fieryOrange_100",
+        "body": [
+            "EColor${1}.fieryOrange_100"
+        ],
+        "description": "Fiery Orange 100 (#fcf0c9)"
+    },
+    "fieryOrange_200": {
+        "prefix": "fieryOrange_200",
+        "body": [
+            "EColor${1}.fieryOrange_200"
+        ],
+        "description": "Fiery Orange 200 (#f8e08f)"
+    },
+    "fieryOrange_300": {
+        "prefix": "fieryOrange_300",
+        "body": [
+            "EColor${1}.fieryOrange_300"
+        ],
+        "description": "Fiery Orange 300 (#f5ca54)"
+    },
+    "fieryOrange_400": {
+        "prefix": "fieryOrange_400",
+        "body": [
+            "EColor${1}.fieryOrange_400"
+        ],
+        "description": "Fiery Orange 400 (#f2b52d)"
+    },
+    "fieryOrange_500": {
+        "prefix": "fieryOrange_500",
+        "body": [
+            "EColor${1}.fieryOrange_500"
+        ],
+        "description": "Fiery Orange 500 (#eb9415)"
+    },
+    "fieryOrange_600": {
+        "prefix": "fieryOrange_600",
+        "body": [
+            "EColor${1}.fieryOrange_600"
+        ],
+        "description": "Fiery Orange 600 (#d0700f)"
+    },
+    "fieryOrange_700": {
+        "prefix": "fieryOrange_700",
+        "body": [
+            "EColor${1}.fieryOrange_700"
+        ],
+        "description": "Fiery Orange 700 (#b65311)"
+    },
+    "fieryOrange_800": {
+        "prefix": "fieryOrange_800",
+        "body": [
+            "EColor${1}.fieryOrange_800"
+        ],
+        "description": "Fiery Orange 800 (#8c3d14)"
+    },
+    "fieryOrange_900": {
+        "prefix": "fieryOrange_900",
+        "body": [
+            "EColor${1}.fieryOrange_900"
+        ],
+        "description": "Fiery Orange 900 (#743313)"
+    },
+    "fieryOrange_950": {
+        "prefix": "fieryOrange_950",
+        "body": [
+            "EColor${1}.fieryOrange_950"
+        ],
+        "description": "Fiery Orange 950 (#421906)"
+    },
+    "lipstick_50": {
+        "prefix": "lipstick_50",
+        "body": [
+            "EColor${1}.lipstick_50"
+        ],
+        "description": "Lipstick 50 (#fdf2f9)"
+    },
+    "lipstick_100": {
+        "prefix": "lipstick_100",
+        "body": [
+            "EColor${1}.lipstick_100"
+        ],
+        "description": "Lipstick 100 (#fde6f6)"
+    },
+    "lipstick_200": {
+        "prefix": "lipstick_200",
+        "body": [
+            "EColor${1}.lipstick_200"
+        ],
+        "description": "Lipstick 200 (#fdcdee)"
+    },
+    "lipstick_300": {
+        "prefix": "lipstick_300",
+        "body": [
+            "EColor${1}.lipstick_300"
+        ],
+        "description": "Lipstick 300 (#fca5de)"
+    },
+    "lipstick_400": {
+        "prefix": "lipstick_400",
+        "body": [
+            "EColor${1}.lipstick_400"
+        ],
+        "description": "Lipstick 400 (#f86ec6)"
+    },
+    "lipstick_500": {
+        "prefix": "lipstick_500",
+        "body": [
+            "EColor${1}.lipstick_500"
+        ],
+        "description": "Lipstick 500 (#f242ae)"
+    },
+    "lipstick_600": {
+        "prefix": "lipstick_600",
+        "body": [
+            "EColor${1}.lipstick_600"
+        ],
+        "description": "Lipstick 600 (#e1218d)"
+    },
+    "lipstick_700": {
+        "prefix": "lipstick_700",
+        "body": [
+            "EColor${1}.lipstick_700"
+        ],
+        "description": "Lipstick 700 (#b61169)"
+    },
+    "lipstick_800": {
+        "prefix": "lipstick_800",
+        "body": [
+            "EColor${1}.lipstick_800"
+        ],
+        "description": "Lipstick 800 (#a2125d)"
+    },
+    "lipstick_900": {
+        "prefix": "lipstick_900",
+        "body": [
+            "EColor${1}.lipstick_900"
+        ],
+        "description": "Lipstick 900 (#871450)"
+    },
+    "lipstick_950": {
+        "prefix": "lipstick_950",
+        "body": [
+            "EColor${1}.lipstick_950"
+        ],
+        "description": "Lipstick 950 (#53042c)"
+    },
+    "grayScale_50": {
+        "prefix": "grayScale_50",
+        "body": [
+            "EColor${1}.grayScale_50"
+        ],
+        "description": "Gray Scale 50 (#f6f6f6)"
+    },
+    "grayScale_100": {
+        "prefix": "grayScale_100",
+        "body": [
+            "EColor${1}.grayScale_100"
+        ],
+        "description": "Gray Scale 100 (#e7e7e7)"
+    },
+    "grayScale_200": {
+        "prefix": "grayScale_200",
+        "body": [
+            "EColor${1}.grayScale_200"
+        ],
+        "description": "Gray Scale 200 (#d1d1d1)"
+    },
+    "grayScale_300": {
+        "prefix": "grayScale_300",
+        "body": [
+            "EColor${1}.grayScale_300"
+        ],
+        "description": "Gray Scale 300 (#b0b0b0)"
+    },
+    "grayScale_400": {
+        "prefix": "grayScale_400",
+        "body": [
+            "EColor${1}.grayScale_400"
+        ],
+        "description": "Gray Scale 400 (#888888)"
+    },
+    "grayScale_500": {
+        "prefix": "grayScale_500",
+        "body": [
+            "EColor${1}.grayScale_500"
+        ],
+        "description": "Gray Scale 500 (#6d6d6d)"
+    },
+    "grayScale_600": {
+        "prefix": "grayScale_600",
+        "body": [
+            "EColor${1}.grayScale_600"
+        ],
+        "description": "Gray Scale 600 (#5d5d5d)"
+    },
+    "grayScale_700": {
+        "prefix": "grayScale_700",
+        "body": [
+            "EColor${1}.grayScale_700"
+        ],
+        "description": "Gray Scale 700 (#4f4f4f)"
+    },
+    "grayScale_800": {
+        "prefix": "grayScale_800",
+        "body": [
+            "EColor${1}.grayScale_800"
+        ],
+        "description": "Gray Scale 800 (#454545)"
+    },
+    "grayScale_900": {
+        "prefix": "grayScale_900",
+        "body": [
+            "EColor${1}.grayScale_900"
+        ],
+        "description": "Gray Scale 900 (#3d3d3d)"
+    },
+    "grayScale_950": {
+        "prefix": "grayScale_950",
+        "body": [
+            "EColor${1}.grayScale_950"
+        ],
+        "description": "Gray Scale 950 (#000000)"
+    }
+}
