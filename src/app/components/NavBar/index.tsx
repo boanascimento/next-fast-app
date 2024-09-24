@@ -1,10 +1,14 @@
-import * as S from './styles';
+import ErrorBoundary from '@/utils/ErrorBoundary';
+import MyButton from './MyButton';
 
 const NavBar = () => {
   return (
-    <S.NavBarContainer>
-      <S.MenuTitle> Wallet</S.MenuTitle>
-    </S.NavBarContainer>
+    // <ErrorBoundary
+    //   componentName="NavBar"
+    //   componentPath="src\app\components\NavBar\index.tsx"
+    // >
+    <MyButton />
+    // {/* </ErrorBoundary> */}
   );
 };
 
